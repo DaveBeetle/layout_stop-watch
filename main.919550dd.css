@@ -1,0 +1,2 @@
+.center{position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;width:20px;height:20px;background-color:green;border-radius:10px}.minuteHand{height:280px;background-color:green;animation:rotate 60s linear infinite}.minuteHand,.secondHand{position:absolute;left:50%;bottom:50%;margin-left:-5px;width:10px;border-radius:5px;transform-origin:bottom}.secondHand{height:300px;background-color:red;animation:rotate 1s linear infinite}@keyframes rotate{0%{transform:rotate(0)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.919550dd.css.map */
